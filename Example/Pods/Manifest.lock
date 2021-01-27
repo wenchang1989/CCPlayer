@@ -1,0 +1,16 @@
+PODS:
+  - CCPlayer (0.1.0)
+
+DEPENDENCIES:
+  - CCPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  CCPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCPlayer: c1ef11910d5d83b304af230b1a7bcb9946b1a242
+
+PODFILE CHECKSUM: d2dcd11f705d1421dc75c5b991f8b56db86c2283
+
+COCOAPODS: 1.10.0

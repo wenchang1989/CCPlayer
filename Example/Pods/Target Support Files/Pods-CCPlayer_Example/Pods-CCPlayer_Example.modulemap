@@ -1,0 +1,6 @@
+framework module Pods_CCPlayer_Example {
+  umbrella header "Pods-CCPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

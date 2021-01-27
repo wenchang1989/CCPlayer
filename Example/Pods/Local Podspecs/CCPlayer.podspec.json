@@ -1,0 +1,22 @@
+{
+  "name": "CCPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of CCPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wenchang1989/CCPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wenchang1989": "1223793212@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wenchang1989/CCPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CCPlayer/Classes/**/*"
+}
