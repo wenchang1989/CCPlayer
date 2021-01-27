@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CCPlayer_Example' do
+  pod 'CCPlayer', :path => '../'
+
+  target 'CCPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
